@@ -1,2 +1,2 @@
 #this file is used to add skills to the guys listed here.
-潘潘：AngularJS(5); Java(7); CSS(5);ResponsiveDesign(5);MySQL(6);Jenkins(5);RubyOnRails(5);Apache(5);
+潘潘：AngularJS(5); Java(7);HTML(6); CSS(5);ResponsiveDesign(5);MySQL(6);Jenkins(5);RubyOnRails(5);Apache(5); Restful Web Services(6); MongoDB(4), Sling(5);Linux(6);
