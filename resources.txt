@@ -36,3 +36,14 @@ http://www.peterbe.com/plog/mincss
 Responsive design patterns:
 http://bradfrost.github.io/this-is-responsive/patterns.html 
 
+Analyze website speed:
+http://tools.pingdom.com/fpt/ 
+
+What is my browser size?
+http://whatsmybrowsersize.com/ 
+
+Emmet  (simplify the writing of html/xml/css)
+http://docs.emmet.io/cheat-sheet/ 
+
+
+
