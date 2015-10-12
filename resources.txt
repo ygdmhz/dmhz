@@ -1,1 +1,38 @@
-this file is used to add good learning resources.
+this file is used to add good learning resources. please follow the format below.
+
+AngularJS best practices:
+http://www.slideshare.net/betclicTech/angularjs-best-practices
+
+Angularjs convention:
+https://github.com/mgechev/angularjs-style-guide 
+
+Find modules for angular:
+http://ngmodules.org/ 
+
+App built with AngularJS:
+https://builtwith.angularjs.org/ 
+
+How browsers work:
+http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ 
+
+W3C CSS selector reference: 
+http://www.w3schools.com/cssref/css_selectors.asp 
+
+CSS selector combined: 
+http://www.w3schools.com/css/css_combinators.asp 
+
+HTML color picker:
+http://html-color-codes.info/ 
+
+Understand CSS positioning:
+http://vanseodesign.com/css/css-positioning/ 
+
+Understand margin:
+http://960development.com/understand-css-margins-collapsing/ 
+
+Clear out not used css
+http://www.peterbe.com/plog/mincss 
+
+Responsive design patterns:
+http://bradfrost.github.io/this-is-responsive/patterns.html 
+
