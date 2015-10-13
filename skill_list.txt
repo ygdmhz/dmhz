@@ -3,3 +3,4 @@
 潘潘：AngularJS(5); Java(7);HTML(6); CSS(5);ResponsiveDesign(5);MySQL(6);Jenkins(5);RubyOnRails(5);Apache(5); Restful Web Services(6); MongoDB(4), Sling(5);Linux(6);
 Bailin: AngularJS(4);
 Hooooooo: Java(6);Erlang(7);Linux(6);
+Lulu: Selenium webdriver(7), xunit(7), Jmeter(7), CSS (6), html(6), Javascript(6), Jquery(5) c#(5) Sql(5) Boostrap(4)
