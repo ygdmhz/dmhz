@@ -4,3 +4,4 @@
 Bailin: AngularJS(4);
 Hooooooo: Java(6);Erlang(7);Linux(6);
 Lulu: Selenium webdriver(7), xunit(7), Jmeter(7), CSS (6), html(6), Javascript(6), Jquery(5) c#(5) Sql(5) Boostrap(4)
+李慧: C#(8); JS(6); Bootstrap(5); PHP(6);HTML(6);
