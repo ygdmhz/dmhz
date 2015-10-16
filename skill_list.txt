@@ -6,3 +6,4 @@ Hooooooo: Java(6);Erlang(7);Linux(6);
 Lulu: Selenium webdriver(7), xunit(7), Jmeter(7), CSS (6), html(6), Javascript(6), Jquery(5) c#(5) Sql(5) Boostrap(4)
 李慧: C#(8); JS(6); Bootstrap(5); PHP(6);HTML(6);
 晓娴：Java(4);HTML(2); CSS(2);jquery(3);正则表达式(2);
+赵华：HTML/XHTML(9);CSS(9);JavaScript(6);Web Performance(6);HTTP(5);Design Pattern(2);
