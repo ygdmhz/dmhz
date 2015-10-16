@@ -2,3 +2,4 @@
 李慧:PHP, YII
 石石: R
 晓娴:java;linux;bootstrap;
+薛磊:linux awk，sed
