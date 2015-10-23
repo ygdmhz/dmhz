@@ -4,3 +4,4 @@
 晓娴:java;linux;bootstrap;
 蚂蚁：C++ Primer ，VS2008，QT4.2,；
 Edwin: Docker, Gatling
+Hooooooo: Algorithm, AI
