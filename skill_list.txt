@@ -12,3 +12,4 @@ Yanmin Ye: Selenium WebDriver(7), HTML(7), CSS(6), JavaScript(6), SQL(6), JAVA(6
 The One: Java(6), JS(4), PHP(6), MySql(5)
 Xiaobo: chromium/blink(6); Selenium webdriver(5); Android(5); Javascript(5); Python(5); 微信公众平台/PHP(6); Bootstrap(3);
 Edwin: Selenium(7);Ruby(5);
+Edward: C++/C# (6), Java (1), Android(1)
